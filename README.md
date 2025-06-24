@@ -1,4 +1,4 @@
-Intruder Alarm System – A basic security circuit designed to detect unauthorized access.
+<strong>Intruder Alarm System</strong> – A basic security circuit designed to detect unauthorized access.
 <br>This repo includes:
 <br>-Circuit schematic (.sch)
 <br>-PCB layout (.pcb)
